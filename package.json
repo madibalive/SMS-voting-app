@@ -1,0 +1,29 @@
+{
+  "name": "smsvoting",
+  "version": "1.0.0",
+  "description": "Sample Sms voting app,using the twilio api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madibalive/SMS-voting-app.git"
+  },
+  "keywords": [
+    "sms",
+    "voting",
+    "twilio"
+  ],
+  "author": "Razak Wasiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madibalive/SMS-voting-app/issues"
+  },
+  "homepage": "https://github.com/madibalive/SMS-voting-app#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "twilio": "^2.9.1"
+  }
+}
